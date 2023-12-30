@@ -1,0 +1,1 @@
+# LAB02-6_compositePattern
